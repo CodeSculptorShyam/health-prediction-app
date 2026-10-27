@@ -1,0 +1,13 @@
+body {
+    background-color: #f5f7fb;
+    color: #263238;
+    font-family: Arial, sans-serif;
+}
+.navbar { box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08); }
+.card { border: 0; border-radius: 10px; }
+.card-header { background-color: #fff; padding: 16px; }
+.form-control { min-height: 42px; }
+.remarks { min-width: 260px; max-width: 420px; white-space: normal; overflow-wrap: anywhere; }
+.actions { min-width: 125px; }
+.table th, .table td { vertical-align: middle; }
+.table thead th { white-space: nowrap; }
